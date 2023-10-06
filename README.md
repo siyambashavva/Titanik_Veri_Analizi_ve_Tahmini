@@ -1,0 +1,1 @@
+# Ttanik_Veri_Analizi.
