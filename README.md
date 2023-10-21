@@ -1,1 +1,1 @@
-# Ttanik_Veri_Analizi.
+# Titanik Veri Analizi ve Tahmini
